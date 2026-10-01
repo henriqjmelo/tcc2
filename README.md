@@ -1,9 +1,21 @@
 # Tarefa de Modelagem de Infraestrutura em Nuvem
 
+## Diagrama de exemplo
+
+Antes de iniciar, observe o diagrama abaixo para entender o **formato esperado** da entrega. O cenário representado é diferente do que você vai modelar — ele existe apenas para mostrar como organizar componentes, setas, premissas e decisões arquiteturais no diagrama.
+
+![Diagrama de exemplo](diagrama_exemplo.png)
+
+---
+
+Antes de começar a prática, preciso que você responda esse questionário:
+
+🔗 **[QUESTIONÁRIO PRÉ-TESTE](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ZIEqXraHC0OsawjWIp5wWWFl4RM2c-RAnVcYxX2hlwpUNFY0QkNVRDdLWDgzR0RLUTM1MFBLQVBZSS4u)**
+
 ## Instruções ao participante
 
 Você deve elaborar um diagrama de arquitetura para o sistema descrito abaixo usando o
-Draw.io/diagrams.net. O diagrama deve representar os principais componentes, as relações
+Draw.io. O diagrama deve representar os principais componentes, as relações
 entre eles e o fluxo principal de dados. Utilize os ícones AWS disponíveis no Draw.io quando
 considerar que eles representam adequadamente a solução.
 
@@ -15,12 +27,17 @@ essa justificativa pode ser incluída no mesmo arquivo, em uma área separada do
 Não é necessário escrever código nem configurar recursos reais. O objetivo é representar
 uma solução tecnicamente coerente para o cenário descrito.
 
-O diagrama
-deve conter rótulos suficientes para identificar a função dos componentes. A solução não é
+O diagrama deve conter rótulos suficientes para identificar a função dos componentes. A solução não é
 avaliada pela quantidade de serviços utilizados, mas pela coerência entre as características
 do cenário e as decisões representadas.
 
-Tempo sugerido: 45 minutos.
+Para seu auxílio na hora de desenhar o diagrama, utilize o guia de ícones AWS para o Draw.io:
+
+https://henriqjmelo.github.io/tcc2/
+
+**Tempo sugerido: 45 minutos.**
+
+---
 
 ## Cenário
 
@@ -72,6 +89,23 @@ diretoria pediu explicitamente que a solução evite manter, o tempo todo, uma c
 infraestrutura dimensionada para o pico do quinto dia útil, já que esse nível de uso está
 longe de ser constante ao longo do mês.
 
-Ao término da atividade, favor encaminhar o arquivo `.drawio` contendo o diagrama e também anexar uma imagem dele em `.png` para o email:
+---
 
-`henriquejardimm@gmail.com`
+## Envio do diagrama
+
+Renomeie seus arquivos colocando o número de participante que você recebeu no lugar de `XX`:
+
+- `participante_XX.png`
+
+Em seguida, envie o arquivo feito no email abaixo:
+
+🔗 **henriquejardimm@gmail.com**
+
+---
+
+## Formulário de acompanhamento
+
+Após concluir o diagrama e fazer o upload, preencha o formulário a seguir:
+
+🔗 **[QUESTIONÁRIO PÓS-TESTE](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ZIEqXraHC0OsawjWIp5wWWFl4RM2c-RAnVcYxX2hlwpUMDA2T0dYUjhOQjdRRTAzMFNORkFXUUFLRi4u)**
+
